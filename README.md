@@ -1,9 +1,14 @@
-# student-project-
+# student-project-v0.1
 
 ### Description
 
 Example of a student project
 
+There is a folder for:
+- data
+- src
+- docs
+- test
 
 ### Installation
 
