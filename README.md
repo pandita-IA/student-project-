@@ -1,9 +1,14 @@
-# student-project-
+# student-project-v0.1
 
 ### Description
 
 Example of a student project
 
+There is a folder for:
+- data
+- src
+- docs
+- test
 
 ### Installation
 
@@ -18,7 +23,7 @@ Read the csv file and print the data
 ```python
 import pandas as pd
 
-data = pd.read_csv('samples2.csv')
+data = pd.read_csv('sample.csv')
 print(data)
 ```
 
