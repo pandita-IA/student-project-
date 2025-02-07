@@ -13,6 +13,16 @@ Example of a student project
 
 Modify the files using vscode or any other editor
 
+Read the csv file and print the data
+
+```python
+import pandas as pd
+
+data = pd.read_csv('sample.csv')
+print(data)
+```
+
+
 ### Contributing
 
 1. Fork the repository
